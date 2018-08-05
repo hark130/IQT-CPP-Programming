@@ -13,6 +13,7 @@
   * [New to C++](ch01_Introduction/1.09_new-to-c++.md)
   * [Passing Const](ch01_Introduction/1.10_passing-const.md)
   * [References](ch01_Introduction/1.11_references.md)
+  * [Lab1A](ch01_Introduction/performance_labs/lab1A/README.md)
 * [C++ Standard Template Library](ch02_Cpp_STL/README.md)
   * [STL Containers](ch02_Cpp_STL/2.01_stl-containers-and-streams.md)
   * [Strings in C++](ch02_Cpp_STL/2.02_strings-in-c++.md)
