@@ -1,4 +1,4 @@
-# Lab 1 - Fi Phi Fo Fum
+# Lab 1A - Fi Phi Fo Fum
 
 ---
 

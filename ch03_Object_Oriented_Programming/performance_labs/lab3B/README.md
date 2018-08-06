@@ -4,7 +4,7 @@
 
 ## ![](/assets/rgvx0Me.jpg)Instructions:
 
-For this lab, you are going to program a mech fighter! Below is all the details you will need to get you started.
+For this lab, you are going to program a mech fighter! Below is all the details you will need to get you started. This lab will be worked upon until we finsh C++.
 
 #### You have been provided with a few files:
 

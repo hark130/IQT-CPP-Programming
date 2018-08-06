@@ -1,4 +1,4 @@
-# Lab 3: Towers of Hanoi
+# Lab 2B: Towers of Hanoi
 
 ---
 
