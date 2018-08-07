@@ -6,12 +6,12 @@
 
 ### What is the STL?
 
-The **Standard Template Library **is a software library for C++ programming language. It contains a number of useful ready to use functionality, to include:
+The **Standard Template Library** is a software library for C++ programming language. It contains a number of useful ready to use functionality, to include:
 
 **Containers**
 
-* **Strings: **length, substr, find, append, operator\[\], data, c\_str
-* **Vectors: **operator\[\], front, back, data, emplace\_back, empty, clear
+* **Strings:** length, substr, find, append, operator\[\], data, c\_str
+* **Vectors:** operator\[\], front, back, data, emplace\_back, empty, clear
 * **Maps:** emplace, operator\[\], at, erase
 
 **Streams:** cin, cout, ofstream, ifstream
@@ -95,5 +95,5 @@ Writing your own common algorithm makes your code obscure, more error-prone, and
 
 ### Accessing the Standard Library
 
-As you may have guessed,** std::&lt;library routine&gt;** is how you access standard library routines. **std **stands for _standard**. **_The :: allows you to access the _namespace. _And the **&lt;library routine&gt; **is what we wish to utilize from the standard library. As stated in Ch1: Namespaces... it's often bad practice to bring in the entire std namespace. This could result in namespace collisions and such; though this generally isn't the case in smaller programs. You are not restricted from using the entire std library in your source code. Just understand it's risks. 
+As you may have guessed, **std::&lt;library routine&gt;** is how you access standard library routines. **std** stands for _standard_. The **::** allows you to access the _namespace._ And the **&lt;library routine&gt;** is what we wish to _utilize_ from the standard library. As stated in Ch1: Namespaces... it's often bad practice to bring in the entire std namespace. This could result in namespace collisions and such; though this generally isn't the case in smaller programs. You are not restricted from using the entire std library in your source code. Just understand it's risks. 
 
