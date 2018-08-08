@@ -2,7 +2,7 @@
 
 ---
 
-Provided a text file, use the STL to read from it and count each occurrence of each word. Once complete, output to **stdout **each word, and the number of times it occurred. Sort the output by words that occured the most to words that occured the least. 
+Provided a text file, use the STL to read from it and count each occurrence of each word. Once complete, output to **stdout** each word, and the number of times it occurred. Sort the output by words that occured the most to words that occured the least. 
 
 You will write this program in its entirety. There will be no source code provided by the instructor, only a text file containing the input.
 
