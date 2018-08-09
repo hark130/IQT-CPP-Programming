@@ -7,7 +7,6 @@
 * Inside of **main.cpp**, you will find the function, **generate\_roster\(\) **that you will need to write. This funciton will recieve user input to populate an array of Person objects, with each person being an individual in the class roster. Return the number of students recorded. 
 * You will also find a function called **log\_roster\(\). **Write this function to print each user out to roster.txt.
 * Compile person.h and roster.cpp into an executable to test your work.
-* **If you are lost, there is a instructor solution to the person.h... try to use this sparingly. Ask for help first!**
-
+* If you are lost, please reach out for help. 
 
 
