@@ -5,7 +5,7 @@
 * **Resources:** files, heap allocated memory
 * Resource-Allocation is Initialization \(**RAII**\)
 * **Exceptions:** newer, cleaner, better ways to perform error handling
-* **Copy and move:** lvalues, rvalues, move and copy constructors
+* **Copy and move:** l-values, r-values, move and copy constructors
 * **Local Scope:** object lifecycle guarantees
 * **Unique Pointers:** singular ownership
 * **Shared Pointers:** shared ownership
